@@ -1,7 +1,9 @@
+version: '3.8'
+
 services:
-  web:
+  do-doodle:
     build: .
-    container_name: do-doodle-server
+    container_name: do-doodle-app
     ports:
-      - "8000:8000"
-    restart: unless-stopped
+      - "8080:80"
+    restart: always

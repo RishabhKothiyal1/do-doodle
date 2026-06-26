@@ -14,7 +14,21 @@ const WORD_DICTIONARIES = {
         "sun", "moon", "star", "cloud", "rain", "snow", "rainbow", "lightning", "wind",
         "pizza", "burger", "sushi", "taco", "cookie", "cake", "ice cream", "donut", "bread",
         "hammer", "screwdriver", "ladder", "saw", "scissors", "pencil", "brush", "ruler",
-        "spider", "butterfly", "dinosaur", "dragon", "unicorn", "alien", "ghost", "wizard"
+        "spider", "butterfly", "dinosaur", "dragon", "unicorn", "alien", "ghost", "wizard",
+        "whale", "dolphin", "shark", "octopus", "frog", "snake", "turtle", "owl", "parrot",
+        "chicken", "pig", "cow", "sheep", "horse", "rabbit", "mouse", "bat", "bear", "fox",
+        "duck", "glasses", "ring", "crown", "book", "backpack", "umbrella", "balloon", "mirror",
+        "toilet", "bathtub", "sofa", "chair", "table", "window", "door", "stairs", "mailbox",
+        "bottle", "cup", "spoon", "fork", "knife", "bowl", "plate", "teapot", "microwave",
+        "toaster", "fridge", "easel", "globe", "compass", "map", "mountain", "river", "lake",
+        "volcano", "waterfall", "cave", "forest", "tree", "flower", "leaf", "grass", "mushroom",
+        "cactus", "pyramid", "statue", "tower", "windmill", "cheese", "egg", "bacon", "steak",
+        "fish", "salad", "soup", "honey", "jam", "milk", "coffee", "tea", "water", "mermaid",
+        "vampire", "zombie", "mummy", "witch", "pumpkin", "skeleton", "skull", "pirate",
+        "treasure", "chest", "sword", "shield", "arrow", "bow", "target", "hand", "foot",
+        "eye", "ear", "nose", "mouth", "heart", "brain", "bone", "hair", "beard", "shirt",
+        "pants", "dress", "skirt", "hat", "shoe", "boot", "glove", "sock", "tie", "scarf",
+        "coin", "dollar", "box", "bubble", "fire", "smoke", "ice", "rock", "sand", "wave"
     ],
     es: [
         "manzana", "platano", "cereza", "uva", "naranja", "pera", "fresa", "sandia",
